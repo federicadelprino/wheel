@@ -46,7 +46,7 @@ push();
   noStroke();
   textSize(21);
 text("Move the cursor", -70, 200);
-text("to emerge from the nest", -110, 220);
+text("to (e)merge from the nest", -110, 220);
 fill(0, 102, 153);
 pop();
 
